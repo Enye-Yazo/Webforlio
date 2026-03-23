@@ -2,9 +2,9 @@ export default function Home() {
   return (
     <div className="home-content">
       <svg className="floating-laptop" viewBox="0 0 200 120" xmlns="http://www.w3.org/2000/svg">
-        {/* Screen */}
+        
         <rect x="20" y="10" width="160" height="80" rx="4" fill="#1a1a1a" stroke="#ff8c00" strokeWidth="2"/>
-        {/* Screen content gradient */}
+        
         <defs>
           <linearGradient id="screenGrad" x1="0%" y1="0%" x2="100%" y2="100%">
             <stop offset="0%" stopColor="#ff8c00" stopOpacity="0.2"/>
