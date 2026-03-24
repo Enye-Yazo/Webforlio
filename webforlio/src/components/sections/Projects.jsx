@@ -3,9 +3,9 @@ export default function Projects() {
     <div className="projects-content">
       <h2 className="section-title">Projects</h2>
       <div className="project-card">
-        <h3 className="card-title">Graaf</h3>
+        <h3 className="card-title">Graaf - in progress</h3>
         <p className="card-text">
-         Graaf is under construction.
+         A web app that connects people willing to graaf anything
         </p>
       </div>
     </div>
