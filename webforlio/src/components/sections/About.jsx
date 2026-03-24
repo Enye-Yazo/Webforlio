@@ -6,7 +6,7 @@ export default function About() {
         <div className="tile">
           <h3 className="tile-title">Lore</h3>
           <p className="tile-text">
-           I'm a student at ITCA Durban North, enrolled in the Systems Development programme. I've got a passion for technology and people, I believe the future of tech of people-centric. I also think of myself as a problem solver
+           I'm a student at ITCA Durban North, enrolled in the Systems Development programme. I've got a passion for technology and people, I believe the future of tech of people-centric. I like to think of myself as a problem solver
           </p>
         </div>
         <div className="tile">

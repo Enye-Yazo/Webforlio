@@ -389,7 +389,7 @@ body {
   transform: scale(1.1);
 }
 
-/* Responsive Design */
+/* Dimensions*/
 @media (max-width: 1024px) {
   .section {
     padding: 40px 30px;
