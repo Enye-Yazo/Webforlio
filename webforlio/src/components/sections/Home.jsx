@@ -8,7 +8,7 @@ export default function Home() {
 
       <h1 className="home-title">Hello World, </h1>
       <p className="home-subtitle">
-        I'm an aspiring software developer and DevOps Engineer
+        I'm Siphelele Msane an aspiring software developer and DevOps Engineer
       </p>
     </div>
   );
