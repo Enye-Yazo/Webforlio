@@ -6,9 +6,9 @@ export default function Home() {
         <LaptopMinimal size={200} color="#ff8c00" strokeWidth={1} />
       </div>
 
-      <h1 className="home-title">Hello World, </h1>
+      <h1 className="home-title">Siphelele Msane </h1>
       <p className="home-subtitle">
-        I'm Siphelele Msane an aspiring software developer and DevOps Engineer
+        I'm an aspiring software developer and DevOps Engineer
       </p>
     </div>
   );
