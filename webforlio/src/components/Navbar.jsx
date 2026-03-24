@@ -17,7 +17,7 @@ export default function Navbar() {
         <button onClick={() => scrollToSection('forge')} className="nav-link">The Forge</button>
       </div>
       <a href={CV} download className="cv-button" title="Download CV">
-        <span className="cv-text">Get my cv</span>
+        <span className="cv-text">Download my cv</span>
       </a>
     </nav>
   )
